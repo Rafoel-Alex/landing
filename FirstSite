@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<meta charset="utf-8">
+        <title >Products</title>
+        <style>
+        .header{
+            padding:10px 0;
+            position: fixed;
+            left: 0;
+            top: 0;
+            right: 0;
+            z-index:997;
+            background:rgba(138,144,255,0,9)
+
+        }
+        </style>
+        
+    </head>
+    <body>
+                            
+                                    <header class="header">
+                
+                    
+                    <ul class="menue-logo-nav conteiner"></ul>
+                        <div class="menue">
+                                <div class="menue-logo">
+
+                                <a href="http://google.com" class="menue-logo-link"></a>
+                                <img src="img/logo.png">
+                               <div class="menue-nan-container" >
+                                    <div class="container">
+                                        <ul class="menue-nav">
+                                            <li class="menue-nav item"><a href ="#" class="menue-nav link"></li></a>
+                                            <li class="menue-nav item"><a href ="#" class="menue-nav link"></li></a>
+                                            <li class="menue-nav item"><a href ="#" class="menue-nav link"></li></a>
+                                            <li class="menue-nav item"><a href ="#" class="menue-nav link"></li></a>
+                                            <li class="menue-nav item"><a href ="#" class="menue-nav link"></li></a>
+                                            <li class="menue-nav item"><a href ="#" class="menue-nav link"></li></a>
+                                        </ul>
+                               </div>
+                            </div>
+                            </div>
+                              </div>
+                       
+                    </header>
+<main class="main"></main>
+<footer class="footer"></footer>
+
+    </body>
+</html>
